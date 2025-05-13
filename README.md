@@ -11,7 +11,7 @@
 
 ## Tampilan UI
 
-![Contoh UI Deepseek](https://user-images.githubusercontent.com/12345678/123456789-drawer-ui-profesional.png)
+<img src = "Screenshot 2025-05-14 012918.png">
 
 **Keterangan Gambar:**
 - Bagian kiri menampilkan deepseek dengan ikon dan label menu (Dashboard, Profil, Pengaturan, Logout)
